@@ -8,6 +8,15 @@
 # install dependencies
 npm install
 
+npm install --save-dev vue-router
+
+npm install --save vue-resource
+
+npm install --save vuex
+
+Using axios to fetch data from coinmarketcap.com
+npm install --save axios
+
 # serve with hot reload at localhost:8080
 npm run dev
 
