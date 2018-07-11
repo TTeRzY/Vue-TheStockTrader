@@ -5,7 +5,7 @@
 
 ![Alt text](https://github.com/TTeRzY/Vue-TheStockTrader/blob/master/src/assets/StockTrader.png "Vue - The Stock Trader")
 
-![Alt text](https://github.com/TTeRzY/Vue-TheStockTrader/blob/master/src/assets/StockTrader1.png "Vue - The Stock Trader")
+![Alt text](https://github.com/TTeRzY/Vue-TheStockTrader/blob/master/src/assets/StockTrader2.png "Vue - The Stock Trader")
 
 
 ## Build Setup
