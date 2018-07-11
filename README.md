@@ -3,9 +3,9 @@
 > A Vue.js project
 
 
-![Alt text](https://github.com/TTeRzY/Add-Favorite-Cards/blob/master/src/assets/vue-favorites.png "Vue Favorites App")
+![Alt text](https://github.com/TTeRzY/Add-Favorite-Cards/blob/master/src/assets/StockTrader.png "Vue - The Stock Trader")
 
-![Alt text](https://github.com/TTeRzY/Add-Favorite-Cards/blob/master/src/assets/EditFavorite.png "Vue Favorites App")
+![Alt text](https://github.com/TTeRzY/Add-Favorite-Cards/blob/master/src/assets/StockTrader1.png "Vue - The Stock Trader")
 
 
 ## Build Setup
